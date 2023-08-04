@@ -1,4 +1,4 @@
-### Hi 👋, I'm sai kumar
+# Hi 👋, I'm sai kumar
 
 
 
@@ -7,8 +7,8 @@
 
 Here are some ideas to get you started:
 -->
-- 🔭 I’m currently working on Big Data projects
-- 🌱 I’m currently learning Data Engineering
+- 🔭 I’m currently working on personal (DATA ENGINEERING) projects
+- 🌱 I’m currently learning Big Data tech stack
 <!--
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
