@@ -1,7 +1,6 @@
-![MasterHead](https://github.com/sai019/sai019/blob/main/ETL%20gif.gif)
 <h1 align="center">Hi 👋, I'm Sai kumar</h1>
 <h3 align="center">A passionate Data Engineer</h3>
-<img align="right" alt="coding" width="300" src="https://github.com/sai019/sai019/blob/main/code.gif">
+<img align="right" alt="coding" width="500" src="https://github.com/sai019/sai019/blob/main/ETL%20gif.gif">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
