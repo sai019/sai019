@@ -6,7 +6,7 @@
 <a href="https://linkedin.com/in/saikumarkollu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="saikumarkollu" height="30" width="40" /></a>
 </p>
 
-<img align="right" alt="coding" width="400" src="https://github.com/sai019/sai019/blob/main/ETL%20gif.gif">
+<img align="right" alt="coding" width="600" src="https://github.com/sai019/sai019/blob/main/ETL%20gif.gif">
 
 - 🔭 I’m currently working on **personal (DATA ENGINEERING) projects**
 
