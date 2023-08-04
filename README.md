@@ -1,12 +1,12 @@
+![MasterHead](https://github.com/sai019/sai019/blob/main/ETL%20gif.gif)
 <h1 align="center">Hi 👋, I'm Sai kumar</h1>
-<h3 align="center">A passionate Data Engineer</h3>
+<h3 align="center">A passionate Big Data developer from India</h3>
+<img align="right" alt="coding" width="400" src="https://github.com/sai019/sai019/blob/main/code.gif">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/saikumarkollu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="saikumarkollu" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/www.linkedin.com/in/saikumarkollu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/saikumarkollu" height="30" width="40" /></a>
 </p>
-
-<img align="right" alt="coding" width="600" src="https://github.com/sai019/sai019/blob/main/ETL%20gif.gif">
 
 - 🔭 I’m currently working on **personal (DATA ENGINEERING) projects**
 
