@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=lato&size=25&color=0AAB3F&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+%F0%9F%91%8B%2C+I'm+Sai+kumar.;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=lato&size=25&color=0AAB3F&center=true&vCenter=true&width=500&height=65&duration=5000&lines=Hi+There!+%F0%9F%91%8B%2C+I'm+Sai+kumar.;" />
 </h1>
   
 <h3 align="center">A passionate Data Engineer from India</h3>
@@ -28,3 +28,12 @@
   <hr/>
 
 <div align="center"><img alt="coding" src="https://github.com/sai019/sai019/blob/main/ETL%20gif.gif"></div>
+
+
+<div align="center">
+  <h2>🐍 My Contributions 🐍</h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/sai019/sai019/output/github-contribution-grid-snake.svg" />
+  
+  <br/><br/><br/>
+</div>
