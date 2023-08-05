@@ -18,7 +18,7 @@
 - 🔭 I’m currently working on **personal (DATA ENGINEERING) projects**
 - 🌱 I’m currently learning **Big Data tech stack**
 - 📚 My Certifications and Courses
-    - <a href="https://github.com/sai019/sai019/blob/main/Big%20Data%20Certificate.pdf" target="_blank" rel="noreferrer">Big Data Bootcamp</a>
+     <a href="https://github.com/sai019/sai019/blob/main/Big%20Data%20Certificate.pdf" target="_blank" rel="noreferrer">Big Data Bootcamp</a>
 
  
   
