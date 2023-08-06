@@ -15,7 +15,7 @@
   - Reading [Fundamentals of Data Engineering](https://www.oreilly.com/library/view/fundamentals-of-data/9781098108298/) Book
   - Exploring Azure & Aws cloud (services related to Data Engineer)  
 - 📚 My Certifications and Courses
-  - [Big Data Bootcamp](https://github.com/sai019/sai019/blob/main/Big%20Data%20Certificate.pdf)
+  - [Big Data Bootcamp](https://drive.google.com/file/d/1IfCbIX_OxjHsm8wOBacGSMh_hsVQ00zj/view?usp=sharing)
 - 📫 How to reach me: &nbsp;
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo&logo=linkedin&logoColor=white)](https://linkedin.com/in/saikumarkollu/)
 <a href="mailto:saikumarkollu855@gmail.com"><img src="https://img.shields.io/badge/Gmail-white?style=flat&logo=Gmail&logoColor=red" alt="Gmail Badge"></a>  
