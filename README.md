@@ -17,7 +17,8 @@
 - 📚 My Certifications and Courses
   - [Big Data Bootcamp](https://github.com/sai019/sai019/blob/main/Big%20Data%20Certificate.pdf)
 - 📫 How to reach me: &nbsp;
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo&logo=linkedin&logoColor=white)](https://linkedin.com/in/saikumarkollu/)  
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo&logo=linkedin&logoColor=white)](https://linkedin.com/in/saikumarkollu/)
+<a href="mailto:saikumarkollu855@gmail.com"><img src="https://img.shields.io/badge/Gmail-white?style=flat&logo=Gmail&logoColor=red" alt="Gmail Badge"></a>  
 
 <hr/>
   
