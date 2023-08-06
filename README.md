@@ -13,7 +13,7 @@
 - 🔭 I’m currently working on **DATA ENGINEERING (personal) projects**  
 - 🌱 I’m currently learning
   - Reading [Fundamentals of Data Engineering](https://www.oreilly.com/library/view/fundamentals-of-data/9781098108298/) Book
-  - Exploring Azure & Aws cloud(services related to Data Engineer)  
+  - Exploring Azure & Aws cloud (services related to Data Engineer)  
 - 📚 My Certifications and Courses
   - [Big Data Bootcamp](https://github.com/sai019/sai019/blob/main/Big%20Data%20Certificate.pdf)
 - 📫 How to reach me: &nbsp;
