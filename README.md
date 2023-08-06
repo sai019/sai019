@@ -8,7 +8,7 @@
 
 <img align="right" height="150" width="150" alt="" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" />
 
-## :man_technologist: &nbsp;About Me :
+### :man_technologist: &nbsp;About Me :
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
