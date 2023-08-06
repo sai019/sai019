@@ -8,7 +8,7 @@
 
 <img align="right" height="150" width="150" alt="" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" />
 
-### :man_technologist: &nbsp;About Me :
+## :man_technologist: &nbsp;About Me :
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -33,7 +33,7 @@
 
 <details><summary>
 
-## :fire: My GitHub Stats :
+### :fire: My GitHub Stats :
 
 </summary>
 <p align="center">
@@ -46,9 +46,8 @@
 </details>
 
 <hr/>
-
-<div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
+<div align="center">    
+  <h3>💻 My Contributions </h3>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/sai019/sai019/output/github-contribution-grid-snake.svg" /> 
   <br/><br/><br/>
 </div>
