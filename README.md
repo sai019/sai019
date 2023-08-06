@@ -10,18 +10,14 @@
 
 ### :man_technologist: &nbsp;About Me :
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/saikumarkollu/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/saikumarkollu" height="30" width="40" /></a>
-</p>
-
-
-- 🔭 I’m currently working on **personal (DATA ENGINEERING) projects**
-  
-- 🌱 I’m currently learning **Big Data tech stack**
-  
+- 🔭 I’m currently working on **DATA ENGINEERING (personal) projects**  
+- 🌱 I’m currently learning
+  - Reading [Fundamentals of Data Engineering](https://www.oreilly.com/library/view/fundamentals-of-data/9781098108298/) Book
+  - Exploring Azure & Aws cloud(services related to Data Engineer)  
 - 📚 My Certifications and Courses
   - [Big Data Bootcamp](https://github.com/sai019/sai019/blob/main/Big%20Data%20Certificate.pdf)
+- 📫 How to reach me: &nbsp;
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo&logo=linkedin&logoColor=white)](https://linkedin.com/in/saikumarkollu/)  
 
 <hr/>
   
@@ -55,6 +51,6 @@
 <hr/>
 
 <h3 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=lato&color=0AAB3F&size=25&center=true&vCenter=true&width=500&height=60&duration=5000&lines=Thanks+for+visiting!+✌️">
+<img src="https://readme-typing-svg.herokuapp.com/?font=lato&color=0AAB3F&size=25&center=true&vCenter=true&width=500&height=60&duration=5000&lines=Thanks+for+visiting!+✌️">
 </h3>
 <br/>
