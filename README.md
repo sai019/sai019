@@ -1,16 +1,13 @@
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=lato&size=25&color=0AAB3F&center=true&vCenter=true&width=500&height=65&duration=7000&lines=Hello+%F0%9F%91%8B%2C+I'm+Sai+kumar.;" />
-</h1>
-  
-<h2 align="center">Aspiring Data Engineer  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  from India</h2>
+<h1 align="center">Hello 👋, I'm Sai kumar</h1>
 
 <br/>
 
-<img align="right" height="150" width="150" alt="" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" />
+<img align="right" width="150" alt="" src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" />
 
-### :man_technologist: &nbsp;About Me :
+## :man_technologist: &nbsp;About Me :
 
-- 🌱 I’m currently learning
+-  Aspiring Data Engineer
+- 🌱 I’m currently learning :
   - Acquiring proficiency in Big Data Engineering skills.
   - Exploring Azure & Aws cloud (services related to Data Engineer)  
 - 🔭 I’m currently working on **DATA ENGINEERING (personal) projects**
