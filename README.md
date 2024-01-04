@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=lato&size=25&color=0AAB3F&center=true&vCenter=true&width=500&height=65&duration=5000&lines=Hi+There!+%F0%9F%91%8B%2C+I'm+Sai+kumar.;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=lato&size=25&color=0AAB3F&center=true&vCenter=true&width=500&height=65&duration=7000&lines=Hello+%F0%9F%91%8B%2C+I'm+Sai+kumar.;" />
 </h1>
   
 <h3 align="center">Aspiring Data Engineer  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  from India</h3>
@@ -10,10 +10,10 @@
 
 ### :man_technologist: &nbsp;About Me :
 
-- 🔭 I’m currently working on **DATA ENGINEERING (personal) projects**  
 - 🌱 I’m currently learning
-  - Reading [Fundamentals of Data Engineering](https://www.oreilly.com/library/view/fundamentals-of-data/9781098108298/) Book
+  - Acquiring proficiency in Big Data Engineering skills.
   - Exploring Azure & Aws cloud (services related to Data Engineer)  
+- 🔭 I’m currently working on **DATA ENGINEERING (personal) projects**
 - 📚 My Certifications and Courses
   - [Big Data Bootcamp](https://drive.google.com/file/d/1IfCbIX_OxjHsm8wOBacGSMh_hsVQ00zj/view?usp=sharing)
 - 📫 How to reach me: &nbsp;
@@ -43,15 +43,8 @@
 </details>
 
 <hr/>
-<div align="center">    
-  <h3>💻 My Contributions </h3>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/sai019/sai019/output/github-contribution-grid-snake.svg" /> 
-  <br/><br/><br/>
-</div>
-
-<hr/>
 
 <h3 align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?font=lato&color=0AAB3F&size=25&center=true&vCenter=true&width=500&height=60&duration=5000&lines=Thanks+for+visiting!+✌️">
+<img src="https://readme-typing-svg.herokuapp.com/?font=lato&color=0AAB3F&size=25&center=true&vCenter=true&width=500&height=65&duration=7000&lines=Thanks+for+visiting!+✌️">
 </h3>
 <br/>
