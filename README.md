@@ -2,9 +2,9 @@
 
 <br/>
 
-<img align="right" width="120" alt="" src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" />
 
 ## :man_technologist: &nbsp;About Me :
+<img align="right" width="170" alt="" src="https://github.com/sai019/sai019/blob/main/developer.gif" />
 
 -  Aspiring Data Engineer
 - 🌱 I’m currently learning :
