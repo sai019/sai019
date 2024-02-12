@@ -4,7 +4,7 @@
 
 
 ## :man_technologist: &nbsp;About Me :
-<img align="right" width="190" alt="" src="https://raw.githubusercontent.com/sai019/sai019/main/developer.gif" />
+<img align="right" width="190" alt="" src="https://raw.githubusercontent.com/sai019/sai019/main/coding.gif" />
 
 -  Aspiring Data Engineer
 - 🌱 I’m currently learning :
