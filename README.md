@@ -2,11 +2,10 @@
 
 <br/>
 
-
 ## :man_technologist: &nbsp;About Me :
 <img align="right" width="220" alt="" src="https://raw.githubusercontent.com/sai019/sai019/main/coding.gif" />
 
--  Aspiring Data Engineer
+-  Data Engineer
 - 🌱 I’m currently learning :
   - Acquiring proficiency in Big Data Engineering skills.
   - Exploring Azure & Aws cloud (services related to Data Engineer)  
@@ -39,7 +38,7 @@
 
 <hr/>
 
-<h3 align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?font=lato&color=0AAB3F&size=25&center=true&vCenter=true&width=500&height=65&duration=7000&lines=Thanks+for+visiting!+✌️">
-</h3>
+<h1 align="center">
+<img src="https://readme-typing-svg.herokuapp.com/?font=&color=F7F7F7FF&size=25&center=true&vCenter=true&width=500&height=65&duration=7500&lines=Thanks+for+visiting!!!">
+</h1> 
 <br/>
