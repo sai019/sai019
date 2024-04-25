@@ -1,24 +1,49 @@
-<h1 align="center">Hello 👋, I'm Sai kumar</h1>
+<h1 align="center">Hello 👋, I am Sai kumar</h1>
 
 <br/>
 
-## :man_technologist: &nbsp;About Me :
+## Here's a little bit about myself . . .
 <img align="right" width="220" alt="" src="https://raw.githubusercontent.com/sai019/sai019/main/coding.gif" />
+  
+👨‍💻  I'm a passionate Big Data Engineer with hands-on experience in designing and implementing robust data solutions. My goal is to leverage the power of data to drive meaningful insights and solve complex business challenges.
 
--  Data Engineer
-- 🌱 I’m currently learning :
-  - Acquiring proficiency in Big Data Engineering skills.
-  - Exploring Azure & Aws cloud (services related to Data Engineer)  
-- 🔭 I’m currently working on **DATA ENGINEERING (personal) projects**
-- 📚 My Certifications and Courses
+🚀 Explore my repositories for :
+  - **Data pipelines:** Python scripts and configurations for building efficient and scalable data pipelines.
+  - **Data transformation:** Code for cleaning, transforming, and preparing data for analysis. 🪄
+  - **Cloud technologies:** Maybe some code related to Azure or Aws, depending on what I'm working on! ☁️
+
+🛠 **Skills** :
+  - 💻 **Programming Languages** :
+    -  | Python |
+  - 💾 **Databases** :
+    - | MySQL | MongoDB |
+  - 🌩️ **Cloud Platforms** :
+    - | Azure | Aws |
+  - 📦 **Big Data Frameworks** :
+    - | Hadoop | Hive | Spark | Kafka | Airflow |
+  - ⚡ **Others** :
+    - | Git | Docker |
+
+🌱 I’m currently learning :
+  - Designing Scalable Data Pipelines
+  - Data Engineering Best Practices for Modern Architectures.
+  - Building High-Performance Data Platforms.
+  - Exploring Azure & Aws cloud (services related to Data Engineer).
+    
+🔭 I'm also passionate about AI, deep learning, machine learning, and NLP.
+ 
+🤘 Personal Projects :
+  - To put my data engineering knowledge into practice, I'm building personal projects that involve building data pipelines, cleaning and transforming data, or creating 
+    data warehouses for analysis.
+  - " **Please check the project repositories pinned below ⬇️⬇️⬇️** "
+   
+🎖️ My Certifications and Courses :
   - [Big Data Bootcamp](https://drive.google.com/file/d/1IfCbIX_OxjHsm8wOBacGSMh_hsVQ00zj/view?usp=sharing)
-- 📫 How to reach me: &nbsp;
+
+🌐 Feel free to reach out! I'm always happy to chat about data engineering, new tools, or just cool projects in general.   
+   - 📫 How to reach me : &nbsp;
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo&logo=linkedin&logoColor=white)](https://linkedin.com/in/saikumarkollu/)
 <a href="mailto:saikumarkollu855@gmail.com"><img src="https://img.shields.io/badge/Gmail-white?style=flat&logo=Gmail&logoColor=red" alt="Gmail Badge"></a>
-
-## 🛠 &nbsp;Skills :
-
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://cassandra.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_cassandra/apache_cassandra-icon.svg" alt="cassandra" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://hadoop.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" alt="hadoop" width="40" height="40"/> </a> <a href="https://hive.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_hive/apache_hive-icon.svg" alt="hive" width="40" height="40"/> </a> <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
 <hr/>
 
