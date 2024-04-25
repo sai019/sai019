@@ -3,14 +3,18 @@
 <br/>
 
 ## Here's a little bit about myself . . .
-<img align="right" width="220" alt="" src="https://raw.githubusercontent.com/sai019/sai019/main/coding.gif" />
   
 👨‍💻  I'm a passionate Big Data Engineer with hands-on experience in designing and implementing robust data solutions. My goal is to leverage the power of data to drive meaningful insights and solve complex business challenges.
 
-🚀 Explore my repositories for :
-  - **Data pipelines:** Python scripts and configurations for building efficient and scalable data pipelines.
-  - **Data transformation:** Code for cleaning, transforming, and preparing data for analysis. 🪄
-  - **Cloud technologies:** Maybe some code related to Azure or Aws, depending on what I'm working on! ☁️
+<img align="right" width="250" alt="" src="https://raw.githubusercontent.com/sai019/sai019/main/coding.gif" />
+
+🌱 I’m currently learning :
+  - Designing Scalable Data Pipelines
+  - Data Engineering Best Practices for Modern Architectures.
+  - Building High-Performance Data Platforms.
+  - Exploring Azure & Aws cloud (services related to Data Engineer).
+    
+🔭 I'm also passionate about AI, deep learning, machine learning, and NLP.
 
 🛠 **Skills** :
   - 💻 **Programming Languages** :
@@ -24,13 +28,10 @@
   - ⚡ **Others** :
     - | Git | Docker |
 
-🌱 I’m currently learning :
-  - Designing Scalable Data Pipelines
-  - Data Engineering Best Practices for Modern Architectures.
-  - Building High-Performance Data Platforms.
-  - Exploring Azure & Aws cloud (services related to Data Engineer).
-    
-🔭 I'm also passionate about AI, deep learning, machine learning, and NLP.
+🚀 Explore my repositories for :
+  - **Data pipelines:** Python scripts and configurations for building efficient and scalable data pipelines.
+  - **Data transformation:** Code for cleaning, transforming, and preparing data for analysis. 🪄
+  - **Cloud technologies:** Maybe some code related to Azure or Aws, depending on what I'm working on! ☁️
  
 🤘 Personal Projects :
   - To put my data engineering knowledge into practice, I'm building personal projects that involve building data pipelines, cleaning and transforming data, or creating 
