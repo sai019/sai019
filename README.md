@@ -65,6 +65,6 @@
 <hr/>
 
 <h1 align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?font=&color=F7F7F7FF&size=25&center=true&vCenter=true&width=500&height=65&duration=7500&lines=Thanks+for+visiting!!!">
+<img src="https://readme-typing-svg.herokuapp.com/?font=&color=F7F7F7FF&size=25&center=true&vCenter=true&width=500&height=65&duration=5500&lines=Thanks+for+visiting!!!">
 </h1> 
 <br/>
