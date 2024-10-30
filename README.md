@@ -12,7 +12,7 @@
   - Designing Scalable Data Pipelines
   - Data Engineering Best Practices for Modern Architectures.
   - Building High-Performance Data Platforms.
-  - Exploring Azure & Aws cloud (services related to Data Engineer).
+  - Exploring Azure & GCP cloud (services related to Data Engineer).
     
 🔭 I'm also passionate about AI, deep learning, machine learning, and NLP.
 
@@ -22,7 +22,7 @@
   - 💾 **Databases** :
     - | MySQL | MongoDB |
   - 🌩️ **Cloud Platforms** :
-    - | Azure | Aws |
+    - | Azure | GCP | - > Big Data Services
   - 📦 **Big Data Frameworks** :
     - | Hadoop | Hive | Spark | Kafka | Airflow |
   - ⚡ **Others** :
@@ -31,7 +31,7 @@
 🚀 Explore my repositories for :
   - **Data pipelines:** Python scripts and configurations for building efficient and scalable data pipelines.
   - **Data transformation:** Code for cleaning, transforming, and preparing data for analysis. 🪄
-  - **Cloud technologies:** Maybe some code related to Azure or Aws, depending on what I'm working on! ☁️
+  - **Cloud technologies:** Maybe some code related to Azure or GCP, depending on what I'm working on! ☁️
  
 🤘 Personal Projects :
   - To put my data engineering knowledge into practice, I'm building personal projects that involve building data pipelines, cleaning and transforming data, or creating 
