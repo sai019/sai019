@@ -6,7 +6,7 @@
   
 👨‍💻  I'm a Big Data Engineer with hands-on experience in designing and implementing robust data solutions. My goal is to leverage the power of data to drive meaningful insights and solve complex business challenges.
 
-<img align="right" width="250" alt="" src="https://raw.githubusercontent.com/sai019/sai019/main/coding.gif" />
+<img align="right" width="225" alt="" src="https://raw.githubusercontent.com/sai019/sai019/main/coding.gif" />
 
 🔭 I'm also passionate about AI, deep learning, machine learning, and NLP.
 
