@@ -4,9 +4,16 @@
 
 ## Here's a little bit about myself . . .
   
-👨‍💻  I'm a passionate Big Data Engineer with hands-on experience in designing and implementing robust data solutions. My goal is to leverage the power of data to drive meaningful insights and solve complex business challenges.
+👨‍💻  I'm a Big Data Engineer with hands-on experience in designing and implementing robust data solutions. My goal is to leverage the power of data to drive meaningful insights and solve complex business challenges.
 
 <img align="right" width="250" alt="" src="https://raw.githubusercontent.com/sai019/sai019/main/coding.gif" />
+
+🔭 I'm also passionate about AI, deep learning, machine learning, and NLP.
+
+🚀 Explore my repositories for :
+  - **Data pipelines:** Python scripts and configurations for building efficient and scalable data pipelines.
+  - **Data transformation:** Code for cleaning, transforming, and preparing data for analysis. 🪄
+  - **Cloud technologies:** Maybe some code related to Azure or GCP, depending on what I'm working on! ☁️
 
 🌱 I’m currently learning :
   - Designing Scalable Data Pipelines
@@ -14,9 +21,8 @@
   - Building High-Performance Data Platforms.
   - Exploring Azure & GCP cloud (services related to Data Engineer).
     
-🔭 I'm also passionate about AI, deep learning, machine learning, and NLP.
 
-🛠 **Skills** :
+## 🛠 Skills :
   - 💻 **Programming Languages** :
     -  | Python |
   - 💾 **Databases** :
@@ -27,21 +33,20 @@
     - | Hadoop | Hive | Spark | Kafka | Airflow |
   - ⚡ **Others** :
     - | Git | Docker |
-
-🚀 Explore my repositories for :
-  - **Data pipelines:** Python scripts and configurations for building efficient and scalable data pipelines.
-  - **Data transformation:** Code for cleaning, transforming, and preparing data for analysis. 🪄
-  - **Cloud technologies:** Maybe some code related to Azure or GCP, depending on what I'm working on! ☁️
  
-🤘 Personal Projects :
+## 🤘 Projects :
   - To put my data engineering knowledge into practice, I'm building personal projects that involve building data pipelines, cleaning and transforming data, or creating 
     data warehouses for analysis.
-  - " **Please check the project repositories pinned below ⬇️⬇️⬇️** "
+    - [Stock-Market-Data-Engineering-Project](https://github.com/sai019/Stock-Market-Data-Engineering-Project)
+  - " **For More Please check the repositories** "
    
-🎖️ My Certifications and Courses :
+## 🎖️ My Certifications and Courses :
   - [Big Data Bootcamp](https://drive.google.com/file/d/1IfCbIX_OxjHsm8wOBacGSMh_hsVQ00zj/view?usp=sharing)
+    
+---
 
-🌐 Feel free to reach out! I'm always happy to chat about data engineering, new tools, or just cool projects in general.   
+## 🌐 Connect With Me :
+ Feel free to reach out! I'm always happy to chat about data engineering, new tools, or just cool projects in general.   
    - 📫 How to reach me : &nbsp;
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo&logo=linkedin&logoColor=white)](https://linkedin.com/in/saikumarkollu/)
 <a href="mailto:saikumarkollu855@gmail.com"><img src="https://img.shields.io/badge/Gmail-white?style=flat&logo=Gmail&logoColor=red" alt="Gmail Badge"></a>
